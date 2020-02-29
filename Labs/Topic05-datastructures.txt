@@ -1,0 +1,18 @@
+# Bonny Chimezie Nwosu
+
+a. numberOfQuestions = int
+b. averageAge    = float
+c. debugMode  = boolean
+d. name = str
+e. ages = array
+f. months = tuple
+g. months[1] = str
+h. book = dict
+i. stuff = array
+j. stuff[2] = boolean(False)
+k. someone = dict
+l. someone["firstname"] = str
+m. me = dict
+n. me["teaching"] = array (is is needed in the dict)
+o. me["teaching"][0]["semester"] = int
+p. me["teaching"][0]["coursename"] = undefined (the code has a capital N in courseName)
