@@ -8,7 +8,7 @@ num1 = 'e'
 num = 0
 
 with open("c:/Users/chimezie/Desktop/moby10b.txt", "r") as fileName:
-    for line in fileNme:
+    for line in fileName:
         words = line.split()
         for i in words:
             for e in i:
