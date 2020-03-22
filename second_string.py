@@ -1,7 +1,14 @@
 # Bonny Nwosu
 # This program takes asks a user to input a strinh
 # And output every second letter in reverse order.
+# Using Loop
 
-s = input("Please enter a sentence")
-  
-print(s[0:50:2][::-1])
+num1 = input("Please enter a sentence")
+
+def reverse(num1): 
+  str = "" 
+  for i in num1: 
+    str = i + str
+  return str
+print(end="")
+print(num1[::-2])

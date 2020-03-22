@@ -5,9 +5,9 @@ import datetime
 
 now = datetime.datetime.now()
 day = now.weekday
-weekend = (5, 7)
+weekend = 7
 
-# assigning to only detect the weekday attribute
+ #assigning to only detect the weekday attribute
 if day == weekend:
     print (" It is the weekend, yay!")
 else:
