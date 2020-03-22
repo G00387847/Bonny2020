@@ -3,16 +3,16 @@
 # And outputs the number of e's it contains
 
 # Source code - sanfoundry.com
-#fname = input("Enter file name:")
-I = 'e'  #input("Enter letter to be searched:")
+
+num1 = 'e'
 num = 0
 
-with open("c:/Users/chimezie/Desktop/moby10b.txt", "r") as f:
-    for line in f:
+with open("c:/Users/chimezie/Desktop/moby10b.txt", "r") as fileName:
+    for line in fileName:
         words = line.split()
         for i in words:
             for e in i:
-                if(e==I):
+                if(e==num1):
                     num = num + 1
 print()
 print(num)
