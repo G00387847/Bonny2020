@@ -7,6 +7,7 @@
 num1 = 'e'
 num = 0
 
+# filename from an argument on the command line
 with open("c:/Users/chimezie/Desktop/moby10b.txt", "r") as fileName:
     for line in fileName:
         words = line.split()
