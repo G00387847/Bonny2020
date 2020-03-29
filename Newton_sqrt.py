@@ -1,8 +1,9 @@
 # Bonny Chimezie Nwosu
 
-# python program function that takes 
+# Python program function that takes 
 # positive floating-point number as input
 # and outputs an approx. of its square root
+# Using Newton square root method.
 
 def newton_sq_rt(root_of):
 
