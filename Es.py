@@ -2,7 +2,7 @@
 # This program reads in text file
 # And outputs the number of e's it contains
 
-# Reference - www.sanfoundry.com
+# Source - www.sanfoundry.com
 
 num1 = 'e'
 num = 0
