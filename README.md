@@ -87,4 +87,19 @@ Write a program that outputs whether or not today is a weekday. An example of ru
 The code was write using python loop.The relevant data was from dicussion forum and from [stackflow website](https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python)
 
 
+import datetime
+
+now = datetime.datetime.now()
+day = now.weekday
+weekend = 7
+
+ #assigning to detect the weekday attribute
+if day == weekend:
+    print (" It is the weekend, yay!")
+else:
+    print("Yes, unfortunately today is a weekday.")
+
+
+
+
 
