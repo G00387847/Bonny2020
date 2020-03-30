@@ -25,6 +25,19 @@ print(bmi)
 Write a program that takes asks a user to input a string and outputs every second letter in reverse order.
 
 
+import datetime
+
+now = datetime.datetime.now()
+day = now.weekday
+weekend = 7
+
+ #assigning to detect the weekday attribute
+if day == weekend:
+    print (" It is the weekend, yay!")
+else:
+    print("Yes, unfortunately today is a weekday.")
+
+
 ## Solution
 
 Using python programming,I used some relevant information from stackflow to write the code in my repo.
