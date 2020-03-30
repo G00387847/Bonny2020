@@ -65,4 +65,13 @@ while num1 > 1:
         print (num1)
 
 
+## Homework weekly Task 5 - (Weekday)
+
+Write a program that outputs whether or not today is a weekday. An example of running this program on a Thursday is given below.
+
+## Solution
+
+The code was write using python loop.The relevant data was from dicussion forum and from [stackflow website](https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python)
+
+
 
