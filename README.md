@@ -24,6 +24,17 @@ print(bmi)
 
 Write a program that takes asks a user to input a string and outputs every second letter in reverse order.
 
+
 ## Solution
 
-Using python programming,I write the code in my repo.
+Using python programming,I used some relevant information from stackflow to write the code in my repo.
+
+num1 = input("Please enter a sentence")
+
+def reverse(num1): 
+  str = "" 
+  for i in num1: 
+    str = i + str
+  return str
+print(end="")
+print(num1[::-2])
