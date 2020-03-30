@@ -29,6 +29,7 @@ Write a program that takes asks a user to input a string and outputs every secon
 
 Using python programming,I used some relevant information from stackflow to write the code in my repo.
 
+
 num1 = input("Please enter a sentence")
 
 def reverse(num1): 
@@ -46,6 +47,7 @@ Write a program that asks the user to input any positive integer and outputs the
 ## Solution
 
 I used python programming in writing the code to my repository and I got my relavant data from my GMIT online learning recorded lecture and optional lab sheet work
+
 
 num1 = int(input("Enter any positive integer number: "))
 num2 = 2
