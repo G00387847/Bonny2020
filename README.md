@@ -43,6 +43,24 @@ print(num1[::-2])
 
 Write a program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
 
+## Solution
+
+I used python programming in writing the code to my repository and I got my relavant data from my GMIT online learning recorded lecture and optional lab sheet work
+
+num1 = int(input("Enter any positive integer number: "))
+num2 = 2
+
+print (num1)
+
+while num1 > 1:
+
+    if num1 % num2 == 0:
+        num1 /= 2
+        print (num1)
+    
+    else:
+        num1 = (num1 * 3) + 1
+        print (num1)
 
 
 
