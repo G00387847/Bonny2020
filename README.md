@@ -95,7 +95,7 @@ Write a program that takes a positive floating-point number as input and outputs
 
 Using python programming,I got my relevant data from stackflow website and manipulated the code to the get my result.
 
-ef newton_sq_rt(root_of):
+def newton_sq_rt(root_of):
 
     apxroot = root_of/2
     num1 = 0
