@@ -123,6 +123,17 @@ if positive:
 else:
     print("The square root of {} is approx.  {}.".format(root_of, round(newton_sq_rt(root_of),1)))
  
+ 
+ 
+ ## Homework weekly Task 7 - (Es)
+ 
+ 
+Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
+
+## Solution
+
+
+
 
 
 
