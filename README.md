@@ -132,7 +132,7 @@ Write a program that reads in a text file and outputs the number of e's it conta
 
 ## Solution
 
-I used python programming language and I got my relevant source [code](www.sanfoundry.com)
+I used python programming language and I got my relevant source from sanfound webpage.
 
 
 
