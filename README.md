@@ -93,9 +93,10 @@ Write a program that takes a positive floating-point number as input and outputs
 
 ## Solution
 
+Using python programming,I got my relevant data from stackflow website and manipulated the code to the get my result.
+
 ef newton_sq_rt(root_of):
 
-# Start with initial guess of half the input value
     apxroot = root_of/2
     num1 = 0
     while abs(root_of - apxroot**2) > 0.01:
