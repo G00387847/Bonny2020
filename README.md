@@ -85,6 +85,15 @@ if day == weekend:
     print (" It is the weekend, yay!")
 else:
     print("Yes, unfortunately today is a weekday.")
+    
+    
+## Homework weekly Task 6 - (Square-root)
+
+Write a program that takes a positive floating-point number as input and outputs an approximation of its square root. You should create a function called sqrt that does this.
+
+## Solution
+
+
 
 
 
